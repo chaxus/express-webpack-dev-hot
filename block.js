@@ -1,5 +1,5 @@
 module.exports = {
     test:function(){
-        console.log('34567')
+        console.log('345671234567')
     }
 }

@@ -1,0 +1,1 @@
+一个express服务，测试webpack-dev-middleware和webpack-hot-middleware
